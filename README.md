@@ -1,5 +1,5 @@
 <h1 align="center">My name is Tomasz.</h1>
-<h2 align="center">Today is Tuesday, 27 September at 17:35 CEST.</h2>
+<h2 align="center">Today is Tuesday, 27 September at 17:38 CEST.</h2>
 <h3 align="center">A passionate wannabe Python and blockchain developer from Poland.</h3>
 
 - 🔭 I’m currently working on developing my skills.
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/catpersec](https://github.com/catpersec)
 
-- 📝 I regularly write articles on [cyberlog.me](https://cyberlog.me)
+- 📝 I regularly write articles on [cyberlog.me](cyberlog.me)
 
 - 💬 Ask me about **anything!**
 
