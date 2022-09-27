@@ -12,7 +12,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout current repository to Master branch
+        uses: actions/checkout@v2
       - name: Use Node.js 16.x
         uses: actions/setup-node@v2
         with:
@@ -20,9 +21,9 @@ jobs:
           cache: 'npm'
           cache-dependency-path: package-lock.json
       - name: Install dependencies
-        run: npm ci
-      - name: Build
-        run: npm run build
+        run: npm install
+      - name: Generate README file
+        run: node index.js
       - name: Commit and Push new README.md to the repository
         uses: catpersec/catpersec@main
         env:
