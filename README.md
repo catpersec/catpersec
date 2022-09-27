@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/catpersec](https://github.com/catpersec)
 
-- 📝 I regularly write articles on [cyberlog.me](cyberlog.me)
+- 📝 I regularly write articles on [cyberlog.me](https://cyberlog.me)
 
 - 💬 Ask me about **anything!**
 
