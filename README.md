@@ -1,9 +1,5 @@
-<h1 align="center">My name is Tomasz and today is Tuesday, 27 September at 17:03 CEST.</h1>
+<h1 align="center">My name is Tomasz and today is Tuesday, 27 September at 17:10 CEST.</h1>
 <h3 align="center">A passionate wannabe Python and blockchain developer from Poland.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=catpersec&label=Profile%20views&color=0e75b6&style=flat" alt="catpersec" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=catpersec" alt="catpersec" /></a> </p>
 
 - 🔭 I’m currently working on [a](a)
 
@@ -23,6 +19,11 @@
 
 - 📄 Know about my experiences [a](a)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catpersec&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=catpersec&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=catpersec&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=catpersec&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=catpersec&theme=github_dark&utcOffset=2)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a" height="30" width="40" /></a>
