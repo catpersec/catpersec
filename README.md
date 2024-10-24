@@ -1,5 +1,5 @@
 <h1 align="center">My name is Tomasz.</h1>
-<h2 align="center">Today is Wednesday, 23 October at 20:30 CEST.</h2>
+<h2 align="center">Today is Thursday, 24 October at 03:47 CEST.</h2>
 <h3 align="center">A passionate wannabe Python and blockchain developer from Poland.</h3>
 
 - 🔭 I’m currently working on developing my skills.
